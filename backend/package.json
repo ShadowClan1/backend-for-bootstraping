@@ -1,0 +1,1 @@
+{"scripts":{"start":"nodemon bin/www"},"dependencies":{"cors":"^2.8.5","dotenv":"^16.0.3","express":"^4.18.2","sequelize":"^6.31.0","sequelize-cli":"^6.6.0","stripe":"^12.2.0"}}
